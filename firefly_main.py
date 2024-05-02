@@ -7,6 +7,7 @@
 import time
 import random
 from rpi_ws281x import Adafruit_NeoPixel, Color
+#commit comment
 
 # LED strip configuration:
 LED_COUNT      = 32      # Number of LED pixels.
