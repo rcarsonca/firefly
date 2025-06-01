@@ -7,6 +7,8 @@
 import time
 import random
 from rpi_ws281x import Adafruit_NeoPixel, Color
+import paho.mqtt.client as mqtt
+import logging
 #commit comment
 
 # LED strip configuration:
